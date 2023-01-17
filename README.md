@@ -19,6 +19,3 @@ pip install pdfkit
 
 In addition you need your machine set up for pdfkit, check out this guide.
 [Python Django PDFKIT installation guide](https://skolo.online/documents/django/pdf.html#pdf-generation)
-
-## Written Tutorials 
-Check out our written tutorials on Medium here [Skolo Online on Medium](https://skolo-online.medium.com/)
